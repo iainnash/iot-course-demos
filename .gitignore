@@ -1,0 +1,5 @@
+config.h
+.vscode
+.pio
+*.ino.cpp
+.DS_Store
